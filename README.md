@@ -72,3 +72,6 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Install Laravel Passport
 	composer require laravel/passport
+
+##vue related library install
+ npm install vue-template-compiler --save-dev --production=false
